@@ -1,3 +1,8 @@
+# Github  Stat
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![mayuxian's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayuxian&show_icons=true&theme=radical)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mayuxian/mayuxian.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
